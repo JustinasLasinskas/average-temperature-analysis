@@ -1,4 +1,4 @@
-# Project Title
+# Average Temperature Analysis
 
 This dataset contains the average annual temperature (°F) for each year from 1900 to 2023. The data is based on observations from a network of thousands of weather stations across the United States.
 
